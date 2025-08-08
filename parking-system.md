@@ -46,6 +46,6 @@ Aplikasi ini dibangun dengan:
 | **GPIO 21** | VIN Buzzer | Menghubungkan ke pin daya buzzer. |
 | **GPIO 2** | LED_PIN | Menghubungkan ke LED sebagai indikator. |
 
+![Raspberry PI](https://cdn-ak.f.st-hatena.com/images/fotolife/B/BioErrorLog/20210821/20210821150402.png)
 ![ESP 32 PIN OUT](https://lastminuteengineers.com/wp-content/uploads/iot/ESP32-Pinout.png)
 
-![Raspberry PI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHwNTtaqNeDyQ72ZgqbfYI2cZ8l4FyjDN6Q&s)
