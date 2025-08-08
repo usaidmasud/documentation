@@ -45,3 +45,7 @@ Aplikasi ini dibangun dengan:
 | **GPIO 19** | RELAY CH3 (STOP) | Mengontrol untuk menghentikan gerakan pintu. |
 | **GPIO 21** | VIN Buzzer | Menghubungkan ke pin daya buzzer. |
 | **GPIO 2** | LED_PIN | Menghubungkan ke LED sebagai indikator. |
+
+![ESP 32 PIN OUT](https://lastminuteengineers.com/wp-content/uploads/iot/ESP32-Pinout.png)
+
+![Raspberry PI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHwNTtaqNeDyQ72ZgqbfYI2cZ8l4FyjDN6Q&s)
